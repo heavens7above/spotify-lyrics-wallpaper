@@ -28,13 +28,32 @@
 
 ## 📖 About The Project
 
-Standard music wallpapers are often loud album art collages or automated year-end promotional graphics that feel cluttered on home screens.
+Most music-inspired wallpapers rely on generic album cover grids, distorted promotional art, or commercial Spotify Wrapped summaries that clash with home screen app icons and cause visual fatigue.
 
-This project approaches wallpaper design from an introspective, typographic angle:
-- **Chalkboard & Journal Aesthetic**: Renders song lyrics and meaningful phrases as freehand handwriting on a deep black background, resembling personal notes on a chalkboard.
-- **Pure OLED Black (`#000000`)**: Saves battery life on mobile OLED displays while providing infinite visual contrast against off-white lettering.
-- **Mathematical Spatial Balance**: Employs **Golden-Ratio Low-Discrepancy Sampling** and **Harmonic Wave Equations** to distribute text with uniform density—eliminating clumping, harsh banding, and visual fatigue.
-- **Dedicated Device Safe Zones**: Engineered around real device interfaces. Keeps the top clear for iOS dynamic islands and lockscreen clocks, and protects the bottom dock on desktop monitors.
+**Typography Wallpaper Generator** re-imagines music wallpapers through the lens of introspective minimalism and generative typography.
+
+### 🖋️ The Chalkboard & Journal Philosophy
+Instead of loud visual noise, what if your screen felt like a dark, personal sketchbook or chalkboard covered in quotes and lines from the music that shaped you?
+- **Intimacy**: Focuses on resonant hooks and punchlines rather than full verse dumps.
+- **Organic Typography**: Renders authentic handwriting letterforms with subtle angle variations (-29° to -19°) rather than rigid typewriter grids.
+- **Infinite Contrast**: Uses pitch black (`#000000`) backgrounds paired with warm off-whites, ash silvers, and deep charcoals.
+
+### ⚡ Why OLED True Black?
+On modern OLED, AMOLED, and Super Retina displays, pixels displaying `#000000` are completely powered down.
+- **Zero Light Emission**: Eliminates blinding glare during late-night phone checks.
+- **Battery Preservation**: Reduces mobile display power draw compared to bright wallpapers.
+- **Infinite Contrast Ratio**: Off-white handwritten ink strokes visually pop off the glass with tactile crispness.
+
+### 📐 Generative Depth & Mathematical Balance
+To prevent text from clumping or creating harsh horizontal bands, the engine uses procedural mathematical algorithms:
+- **Golden-Ratio Low-Discrepancy Sampling**: Distributes text lines so visual mass remains strictly homogeneous from top to bottom.
+- **Harmonic Wave Oscillations**: Generates natural wave-like crests and troughs of depth across background whispers, midground rhythms, and foreground punchlines.
+- **Multi-Tier Z-Space Projections**: Foreground phrases feature procedural black projection cast shadows (+4 to +8px) that occlude background layers, creating a genuine sense of 3D depth on a 2D canvas.
+
+### 📱 Interface Safe-Zone Awareness
+Every wallpaper layout respects physical device hardware and OS interfaces:
+- **Mobile (1290 × 2796)**: Preserves negative space for iOS dynamic islands, lockscreen digital clocks, system widgets, and bottom camera/flashlight toggles.
+- **Desktop 4K (3840 × 2160)**: Provides breathing room below the macOS menu bar and above the application dock.
 
 ---
 
