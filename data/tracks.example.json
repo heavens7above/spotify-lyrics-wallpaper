@@ -1,0 +1,13 @@
+{
+  "all_time_top_tracks": [
+    {
+      "id": "sample_track_id_01",
+      "name": "Example Track Title",
+      "artists": ["Sample Artist"],
+      "album": "Sample Album Name",
+      "album_art": "https://images.example.com/album.jpg",
+      "popularity": 75,
+      "spotify_url": "https://open.spotify.com/track/sample"
+    }
+  ]
+}
